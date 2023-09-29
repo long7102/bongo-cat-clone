@@ -341,6 +341,9 @@ var i18n_map = {
   "website": {
     "en": "Website by "+link_EricHuber,
     "ca": "Lloc web d&#39"+link_EricHuber},
+  "cookies": {
+    "en": "This website uses cookies to analyze traffic via anonymized and aggregated data.",
+    "ca": "Aquest lloc web utilitza galetes per analitzar el trànsit mitjançant dades agregades i anonimitzades."}
 };
 
 var supportedLanguages = {"ca": true, "en": true};
